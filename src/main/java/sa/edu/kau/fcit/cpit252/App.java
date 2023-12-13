@@ -8,6 +8,6 @@ public class App {
         Order o1 = new Order();
         Shipment sh1 = new Shipment("Ahmed",
                 "248 NE. Pleasant St. Niceville, FL 32578",
-                "123-477-0001");
+                "123-477-0001" );
     }
 }
